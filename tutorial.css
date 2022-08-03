@@ -1,0 +1,33 @@
+/* h1{
+    color: yellowgreen;
+    border: 1px solid black;
+    display: inline;
+} */
+
+div{
+    /* border: 1px solid red;  */
+    color: white;
+}
+
+.left-division{
+    vertical-align: top;
+    display: inline-block;
+    width: 65%;
+    height: 500px;
+    background: skyblue;
+
+}
+
+.right-division{
+    vertical-align: top;
+    display: inline-block;
+    height: 250px;
+    width: 30%;
+    background: tomato;
+}
+
+.parent-container{
+    /* border: 2px solid black; */
+    width: 70%;
+    margin: 0 auto;
+}
