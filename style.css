@@ -179,9 +179,6 @@ img{
         font-size: 24px;
     }
 
-    .header-logotext{
-        width: 150px;
-    }
 
     p {
         font-size: 16px;
@@ -189,7 +186,7 @@ img{
     
     .smart-line {
         width: 160px;
-        margin-top: 90px;
+        margin-top: 75px;
     }
 
     .link-holder{
@@ -209,7 +206,8 @@ img{
 
     .header-logotext{
         width: 200px;
-    
+        /* border: 3px solid black; */
+        font-size: 14px;
     }
 
     .secondsection-right{
