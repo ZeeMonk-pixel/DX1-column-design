@@ -49,6 +49,7 @@ span{
 .header-logotext{
     margin-bottom: 20px;
     /* border: 3PX SOLID BLACK; */
+    font-weight: bolder;
     width: 220px;
     background: rgb(215, 140, 218);
     height: 30px;
@@ -232,6 +233,16 @@ img{
 
     .footer p {
         text-align: center;
+    }
+
+    .secondsection-leftheader{
+        font-size: 17px;
+        font-weight: bold;
+    }
+
+    }
+
+
     }
 
 
