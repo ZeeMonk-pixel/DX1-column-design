@@ -144,6 +144,11 @@ img{
     padding: 30px 25px;
 }
 
+.thirdsection-rightparagraph3{
+    text-align: center;
+    margin-top: 90px;
+}
+
 .thirdsection-left{
     /* background: skyblue; */
 }
@@ -241,11 +246,4 @@ img{
     }
 
     }
-
-
-    }
-
-
-
-}
 
