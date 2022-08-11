@@ -3,6 +3,9 @@
         box-sizing: border-box;
     }
 
+    span a {
+        color: white;
+    }
     body{
         font-family: 'Inter', sans-serif;
     }
